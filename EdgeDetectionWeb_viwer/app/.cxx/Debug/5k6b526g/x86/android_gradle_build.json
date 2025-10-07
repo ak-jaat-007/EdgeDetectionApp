@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "C:\\Users\\amank\\AndroidStudioProjects\\EdgeDetectionApp\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\amank\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\amank\\AndroidStudioProjects\\EdgeDetectionApp\\app\\.cxx\\Debug\\5k6b526g\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\amank\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\amank\\AndroidStudioProjects\\EdgeDetectionApp\\app\\.cxx\\Debug\\5k6b526g\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "edgedetectionapp::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "edgedetectionapp",
+      "output": "C:\\Users\\amank\\AndroidStudioProjects\\EdgeDetectionApp\\app\\build\\intermediates\\cxx\\Debug\\5k6b526g\\obj\\x86\\libedgedetectionapp.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\amank\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\amank\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,1 @@
+C:\Users\amank\AndroidStudioProjects\EdgeDetectionApp\app\src\main\cpp\CMakeLists.txt

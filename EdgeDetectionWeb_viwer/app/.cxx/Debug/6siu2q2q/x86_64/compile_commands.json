@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/amank/AndroidStudioProjects/EdgeDetectionApp/app/.cxx/Debug/6siu2q2q/x86_64",
+  "command": "C:\\Users\\amank\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/amank/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dedgedetectionapp_EXPORTS -isystem C:/Users/amank/Downloads/opencv-4.12.0-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\edgedetectionapp.dir\\native-lib.cpp.o -c C:\\Users\\amank\\AndroidStudioProjects\\EdgeDetectionApp\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "C:\\Users\\amank\\AndroidStudioProjects\\EdgeDetectionApp\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

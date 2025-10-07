@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\amank\\AndroidStudioProjects\\EdgeDetectionApp\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\amank\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\amank\\AndroidStudioProjects\\EdgeDetectionApp\\app\\.cxx\\Debug\\6siu2q2q\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\amank\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\amank\\AndroidStudioProjects\\EdgeDetectionApp\\app\\.cxx\\Debug\\6siu2q2q\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "edgedetectionapp::@6890427a1f51a3e7e1df": {
+      "artifactName": "edgedetectionapp",
+      "abi": "x86_64",
+      "output": "C:\\Users\\amank\\AndroidStudioProjects\\EdgeDetectionApp\\app\\build\\intermediates\\cxx\\Debug\\6siu2q2q\\obj\\x86_64\\libedgedetectionapp.so",
+      "runtimeFiles": []
+    }
+  }
+}
